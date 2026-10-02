@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://overcall.lol">
+  <img src="public/logo.png" alt="overcall.lol Logo" width="120" height="120" />
+</a>
+
 # overcall.lol
 
 **The Public Pay-to-Rank Discovery & Leaderboard Platform**

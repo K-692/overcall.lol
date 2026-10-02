@@ -386,6 +386,7 @@ $$\text{More Confirmed Spend} \implies \text{Higher Rank}$$
     * Created a sanitized, production-ready `.env.example` file documenting all environment options: domain settings, app currency, bidding thresholds, mock mode vs PayPal integration, and webhook configuration.
   - **Production-Grade Documentation & Licensing (`README.md` & `LICENSE`):**
     * Crafted an exhaustive, high-impact `README.md` complete with status badges, system architecture ASCII diagrams, core mathematical invariants, feature breakdowns, API endpoint reference table, quick-start guides, and author credits.
+    * Integrated the official centered platform logo (`public/logo.png`) directly at the top of the README for high visual polish and branding clarity on GitHub.
     * Added official MIT License file credited to Krishnendu Pal.
   - **Git Repository Initialization & Remote Push:**
     * Initialized git repository, staged all verified source files, committed with structured commit messaging, and linked remote origin `https://github.com/K-692/overcall.lol.git`.
